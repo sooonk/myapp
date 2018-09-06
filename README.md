@@ -104,14 +104,7 @@ Omit --global to set the identity only in this repository.
 
 sonia@sonia-VB:~/Desktop/myapp$ git config --global user.email 'sonia@przenioslo.eu'
 sonia@sonia-VB:~/Desktop/myapp$ git commit
-Use "fg" to return to nano.or to close the file... 
 
-[1]+  Stopped                 git commit
-sonia@sonia-VB:~/Desktop/myapp$ git commit
-Use "fg" to return to nano.or to close the file... 
-
-[2]+  Stopped                 git commit
-sonia@sonia-VB:~/Desktop/myapp$ git commit
 [master (root-commit) 7aa9de0]  Initial commit
  2 files changed, 8 insertions(+)
  create mode 100644 app.js
